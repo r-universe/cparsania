@@ -8,3 +8,13 @@
 	url = https://github.com/cparsania/fungiexpresz
 	shallow = true
 	registered = true
+[submodule "parcutils"]
+	path = parcutils
+	url = https://github.com/cparsania/parcutils
+	shallow = true
+	registered = true
+[submodule "TidyWrappers"]
+	path = TidyWrappers
+	url = https://github.com/cparsania/tidywrappers
+	shallow = true
+	registered = true
