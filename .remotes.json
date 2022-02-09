@@ -1,0 +1,8 @@
+[
+  {
+    "package": "TidyWrappers",
+    "url": "https://github.com/cparsania/TidyWrappers",
+    "via": ["parcutils"],
+    "from": "parcutils"
+  }
+]
