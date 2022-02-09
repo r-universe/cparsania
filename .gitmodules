@@ -18,3 +18,8 @@
 	url = https://github.com/cparsania/tidywrappers
 	shallow = true
 	registered = true
+[submodule "circlize"]
+	path = circlize
+	url = https://github.com/jokergoo/circlize
+	shallow = true
+	registered = false

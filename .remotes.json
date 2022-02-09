@@ -4,5 +4,11 @@
     "url": "https://github.com/cparsania/TidyWrappers",
     "via": ["parcutils"],
     "from": "parcutils"
+  },
+  {
+    "package": "circlize",
+    "url": "https://github.com/jokergoo/circlize",
+    "via": ["parcutils"],
+    "from": "parcutils"
   }
 ]
